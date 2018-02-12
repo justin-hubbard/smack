@@ -18,6 +18,7 @@
 		D084295C20226F3A00537EE7 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D084295B20226F3A00537EE7 /* GradientView.swift */; };
 		D084295F2028FA6500537EE7 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D084295E2028FA6500537EE7 /* Constants.swift */; };
 		D08429612032486A00537EE7 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D08429602032486A00537EE7 /* LoginViewController.swift */; };
+		D084296320324A3600537EE7 /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D084296220324A3600537EE7 /* CreateAccountViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		D084295B20226F3A00537EE7 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		D084295E2028FA6500537EE7 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		D08429602032486A00537EE7 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		D084296220324A3600537EE7 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				D03450602022695100CCA7B3 /* ChatViewController.swift */,
 				D03450622022696100CCA7B3 /* ChannelViewController.swift */,
 				D08429602032486A00537EE7 /* LoginViewController.swift */,
+				D084296220324A3600537EE7 /* CreateAccountViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -287,6 +290,7 @@
 				D03450452021555A00CCA7B3 /* AppDelegate.swift in Sources */,
 				D03450612022695100CCA7B3 /* ChatViewController.swift in Sources */,
 				D084295C20226F3A00537EE7 /* GradientView.swift in Sources */,
+				D084296320324A3600537EE7 /* CreateAccountViewController.swift in Sources */,
 				D03450632022696100CCA7B3 /* ChannelViewController.swift in Sources */,
 				D034505C202266A500CCA7B3 /* SWRevealViewController.m in Sources */,
 				D084295F2028FA6500537EE7 /* Constants.swift in Sources */,
